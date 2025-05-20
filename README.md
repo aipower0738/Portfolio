@@ -21,7 +21,7 @@ Designed and created with ❤️+☕ by <a href="https://robottom.dev">Robot Tom
     <img src="https://img.shields.io/github/package-json/v/RobotTom/robottom.dev" alt="Version"/>
     <img src="https://img.shields.io/github/languages/code-size/RobotTom/robottom.dev" alt="Repo code size"/>
     <img src="https://img.shields.io/github/license/robottom/RobotTom.dev" alt="License MIT"/>
-    <img src="https://img.shields.io/badge/author-Hafid%20Ziti-blue" alt="author Harsh Goel"/>
+    <img src="https://img.shields.io/badge/author-Robot%20Tom" alt="author Robot Tom"/>
     
 </p>
 
